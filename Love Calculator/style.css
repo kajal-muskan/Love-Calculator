@@ -1,0 +1,51 @@
+h1{
+    font-family: 'Montagu Slab', serif;
+    font-weight:5px;
+    font-size: 45px;
+    /* color: #ff748c; */
+    color: #2c3d3e;
+}
+
+body, html{
+    height: 100%;
+    margin: 0%;
+    
+}
+
+.container-fluid{
+    background-image: url(https://images.pexels.com/photos/3607031/pexels-photo-3607031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+
+    background-size: cover;
+    
+height: 100%;
+
+text-align: center;
+padding-top: 12%;
+border-color: #ff748c;
+
+
+
+}
+
+.center {
+    margin: 0 auto;
+    width: 80%;
+   
+    padding-left: 20%;
+}
+.col{
+    padding: 15px 15px 15px;
+   
+}
+.textFormat{
+    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Montagu Slab', serif; */
+    font-size: 20px;
+    font-weight: 200;
+    text-decoration: none;
+    /* color:#ff748c; */
+    color: #2c3d3e;
+
+
+    
+}
